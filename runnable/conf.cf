@@ -1,0 +1,14 @@
+# EndPoint: URL de la forme https://mon.serveur.fr:443/ws-iparapheur
+endPoint=https://192.168.0.72:443/ws-iparapheur
+
+# user et password de connexion
+user=webserviceUser
+pass=webservicePassword
+
+# Keystore: chemin d'acces au fichier, et keyStorePass en mot de passe
+keyStorePath=demo.jks
+keyStorePass=demo
+
+# Truststore: chemin d'acces au fichier,  et mot de passe
+trustStorePath=trust.jks
+trustStorePass=trust
